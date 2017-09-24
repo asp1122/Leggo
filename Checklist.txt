@@ -11,7 +11,9 @@ https://developer.android.com/studio/index.html
 3. Skype.
  https://www.skype.com/en/
 
-4. Create an account on Github. 
+4. GitHub
+get github desktop https://desktop.github.com/
+Create an account on Github. 
 
 ----------------
 
@@ -22,9 +24,11 @@ https://www.codecademy.com/learn/learn-python
 
 2. GitHub tutorials
 
+https://guides.github.com/activities/hello-world/
+https://guides.github.com/introduction/getting-your-project-on-github/
+
 https://www.youtube.com/watch?v=0fKg7e37bQE
 https://www.youtube.com/watch?v=EUvmCuPjHD4
-https://guides.github.com/activities/hello-world/
 
 -----------------
 
